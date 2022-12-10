@@ -1,0 +1,24 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.header{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background-color:#247cf7;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.left_side{
+	width: 18%;
+	height: 90%;
+	float: left;
+	border-right: 1px solid #999;
+	/*background-color: #9cbab4;*/
+}
